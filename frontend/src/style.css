@@ -1,0 +1,24 @@
+body {
+    font-family: arial;
+    text-align: center;
+}
+
+nav {
+    background-color: black;
+    padding: 20px;
+}
+
+nav a {
+    color: whitesmoke;
+    margin: 20px;
+    text-decoration: none;
+}
+
+h1 {
+    color: blue;
+}
+
+button {
+    padding: 8px 14px;
+    cursor: pointer;
+}
